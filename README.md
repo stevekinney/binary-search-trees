@@ -1,6 +1,6 @@
 # Binary Search Trees
 
-A attempt to implement binary search trees in JavaScript.
+An attempt to implement binary search trees in JavaScript.
 
 ## Setup
 
